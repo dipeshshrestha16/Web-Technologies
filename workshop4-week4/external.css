@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Shadows+Into+Light&display=swap');
+body{
+    background-color: black;
+}
+h1{
+    color: aquamarine;
+    font-size: 60px;
+    
+}
+p{
+    color: palevioletred;
+    font-size: 25px;
+    font-family: 'Cinzel', serif;
+font-family: 'Shadows Into Light', cursive; ;
+}
