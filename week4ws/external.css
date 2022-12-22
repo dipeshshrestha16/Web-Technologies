@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Shadows+Into+Light&family=Unbounded:wght@200&display=swap');
+body{
+    background-color: black;
+}
+h1{
+    color: aqua;
+    font-family: 'Cinzel', serif;
+}
+img{
+    border-radius: 50%;
+    width: auto;
+    height: 500px;
+    background-size: ;
+}
